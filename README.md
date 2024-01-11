@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="#" color="white" target="_blank" >
+    <a href="https://nasrulkhakim-blog-preview-card.netlify.app/" color="white" target="_blank" >
       Live
     </a>
     <span> | </span>
@@ -43,7 +43,6 @@ Users should be able to :
 
 ### Deployment
 
-- GitHub Pages
 - Netlify
 
 ### Development
@@ -62,7 +61,7 @@ It’s quite challenging learning to program as an adult, since I have business 
 
 For those of you alike, lets do this together. I’m open to any discussion especially things related to programming or technology in general.
 
-Check out my other repos, and feel free to give me some feedback, that’s be really helpful for us.
+Check out my other repos, and feel free to give me some feedback, that’d be really helpful for us.
 
 You can find me here :
 
