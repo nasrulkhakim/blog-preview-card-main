@@ -20,7 +20,6 @@
 <br>
 <br>
 <br>
-# Blog Preview Card
 
 This challenge is provided by [\*\*frontendmentor.io](https://www.frontendmentor.io/home),\*\* a collaborative learning community where everyone can give feedback to each other.
 
@@ -38,8 +37,6 @@ Users should be able to :
 
 # Tools
 
----
-
 ### Design
 
 - Figma Design
@@ -56,8 +53,6 @@ Users should be able to :
 - Chrome Developer Tools
 
 # About me
-
----
 
 Hello everyone!
 
