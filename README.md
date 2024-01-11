@@ -74,8 +74,6 @@ You can find me here :
 
 # Acknowledgement
 
----
-
 [Free Code Camp](https://www.freecodecamp.org/learn)
 
 [The Odin Project](https://www.theodinproject.com/dashboard)
