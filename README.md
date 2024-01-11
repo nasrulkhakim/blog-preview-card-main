@@ -8,7 +8,7 @@
       Live
     </a>
     <span> | </span>
-    <a href="#" target="_blank" >
+    <a href="https://www.frontendmentor.io/solutions/blog-preview-card-using-html-and-css-66hmY6grFv" target="_blank" >
       Solution
     </a>
    <span> | </span>
