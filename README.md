@@ -37,6 +37,13 @@ Users should be able to :
 
 # Tools
 
+### Built with
+
+- Semantic HTML
+- CSS Grid
+- CSS Flex
+- Media Query
+
 ### Design
 
 - Figma Design
