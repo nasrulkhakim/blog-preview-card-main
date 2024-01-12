@@ -60,6 +60,12 @@ body {
 .title {
   font-size: 1.5rem;
   font-weight: 800;
+  cursor: pointer;
+  transition: 0.75s;
+}
+
+.title:hover {
+  color: #f5d04e;
 }
 
 .subtitle {
@@ -99,6 +105,11 @@ body {
   display: flex;
   flex-direction: column;
   gap: 1.375rem;
+  transition: 0.75s;
+}
+
+.card:hover {
+  box-shadow: 1rem 1rem 0px 0px #121212;
 }
 
 .text-content {
